@@ -2,241 +2,211 @@
     {
         "rank": 25,
         "flag": "https://flagsapi.com/BD/shiny/64.png",
+        "country": "Bangladesh",
         "username": "ahnaf_cp",
         "points": 800
     },
     {
         "rank": 2,
         "flag": "https://flagsapi.com/IN/flat/64.png",
+        "country": "India",
         "username": "coder_king",
         "points": 3100
     },
     {
         "rank": 3,
         "flag": "https://flagsapi.com/UA/flat/64.png",
+        "country": "Ukraine",
         "username": "supercoder123",
         "points": 3050
     },
     {
         "rank": 4,
         "flag": "https://flagsapi.com/PL/flat/64.png",
+        "country": "Poland",
         "username": "math_master",
         "points": 2900
     },
     {
         "rank": 5,
         "flag": "https://flagsapi.com/RU/flat/64.png",
+        "country": "Russia",
         "username": "programming_wizard",
         "points": 2800
     },
     {
         "rank": 6,
         "flag": "https://flagsapi.com/CN/flat/64.png",
+        "country": "China",
         "username": "algo_queen",
         "points": 2700
     },
     {
         "rank": 7,
         "flag": "https://flagsapi.com/BR/flat/64.png",
+        "country": "Brazil",
         "username": "tech_enthusiast",
         "points": 2600
     },
     {
         "rank": 8,
         "flag": "https://flagsapi.com/GB/flat/64.png",
+        "country": "United Kingdom",
         "username": "debugging_hero",
         "points": 2500
     },
     {
         "rank": 9,
         "flag": "https://flagsapi.com/FR/flat/64.png",
+        "country": "France",
         "username": "speed_coder",
         "points": 2400
     },
     {
         "rank": 10,
         "flag": "https://flagsapi.com/DE/flat/64.png",
+        "country": "Germany",
         "username": "algorithmic_guru",
         "points": 2300
     },
     {
         "rank": 11,
         "flag": "https://flagsapi.com/ES/flat/64.png",
+        "country": "Spain",
         "username": "swift_solver",
         "points": 2200
     },
     {
         "rank": 12,
         "flag": "https://flagsapi.com/IT/flat/64.png",
+        "country": "Italy",
         "username": "binary_solutions",
         "points": 2100
     },
     {
         "rank": 13,
         "flag": "https://flagsapi.com/JP/flat/64.png",
+        "country": "Japan",
         "username": "code_master2024",
         "points": 2000
     },
     {
         "rank": 14,
         "flag": "https://flagsapi.com/KR/flat/64.png",
+        "country": "South Korea",
         "username": "quick_coder",
         "points": 1950
     },
     {
         "rank": 15,
         "flag": "https://flagsapi.com/AU/flat/64.png",
+        "country": "Australia",
         "username": "solution_prodigy",
         "points": 1900
     },
     {
         "rank": 16,
         "flag": "https://flagsapi.com/SG/flat/64.png",
+        "country": "Singapore",
         "username": "algorithm_whiz",
         "points": 1850
     },
     {
         "rank": 17,
         "flag": "https://flagsapi.com/CA/flat/64.png",
+        "country": "Canada",
         "username": "data_structurer",
         "points": 1800
     },
     {
         "rank": 18,
         "flag": "https://flagsapi.com/SE/flat/64.png",
+        "country": "Sweden",
         "username": "problem_solver",
         "points": 1750
     },
     {
         "rank": 19,
         "flag": "https://flagsapi.com/UA/flat/64.png",
+        "country": "Ukraine",
         "username": "code_runner",
         "points": 1700
     },
     {
         "rank": 20,
         "flag": "https://flagsapi.com/PL/flat/64.png",
+        "country": "Poland",
         "username": "c_programmer",
         "points": 1650
     },
     {
         "rank": 21,
         "flag": "https://flagsapi.com/IN/flat/64.png",
+        "country": "India",
         "username": "coding_expert",
         "points": 1600
     },
     {
         "rank": 22,
         "flag": "https://flagsapi.com/BR/flat/64.png",
+        "country": "Brazil",
         "username": "debug_hero",
         "points": 1550
     },
     {
         "rank": 23,
         "flag": "https://flagsapi.com/GB/flat/64.png",
+        "country": "United Kingdom",
         "username": "problem_buster",
         "points": 1500
     },
     {
         "rank": 24,
         "flag": "https://flagsapi.com/DE/flat/64.png",
+        "country": "Germany",
         "username": "solution_finder",
         "points": 1450
     },
     {
         "rank": 1,
         "flag": "https://flagsapi.com/RU/flat/64.png",
+        "country": "Russia",
         "username": "fastest_solver",
         "points": 1400
     },
     {
         "rank": 26,
         "flag": "https://flagsapi.com/US/flat/64.png",
+        "country": "United States",
         "username": "algorithm_expert",
         "points": 1350
     },
     {
         "rank": 27,
         "flag": "https://flagsapi.com/CN/flat/64.png",
+        "country": "China",
         "username": "code_crusher",
         "points": 1300
     },
     {
         "rank": 28,
         "flag": "https://flagsapi.com/IT/flat/64.png",
+        "country": "Italy",
         "username": "debugger123",
         "points": 1250
     },
     {
         "rank": 29,
         "flag": "https://flagsapi.com/FR/flat/64.png",
+        "country": "France",
         "username": "fast_fingers",
         "points": 1200
     },
     {
         "rank": 30,
         "flag": "https://flagsapi.com/SE/flat/64.png",
+        "country": "Sweden",
         "username": "logic_master",
         "points": 1150
-    },
-    {
-        "rank": 31,
-        "flag": "https://flagsapi.com/ES/flat/64.png",
-        "username": "pro_coder",
-        "points": 1100
-    },
-    {
-        "rank": 32,
-        "flag": "https://flagsapi.com/KR/flat/64.png",
-        "username": "solution_savant",
-        "points": 1050
-    },
-    {
-        "rank": 33,
-        "flag": "https://flagsapi.com/SG/flat/64.png",
-        "username": "data_sculptor",
-        "points": 1000
-    },
-    {
-        "rank": 34,
-        "flag": "https://flagsapi.com/CA/flat/64.png",
-        "username": "algorithmic_artist",
-        "points": 950
-    },
-    {
-        "rank": 35,
-        "flag": "https://flagsapi.com/BR/flat/64.png",
-        "username": "coder_warrior",
-        "points": 900
-    },
-    {
-        "rank": 36,
-        "flag": "https://flagsapi.com/GB/flat/64.png",
-        "username": "binary_expert",
-        "points": 850
-    },
-    {
-        "rank": 37,
-        "flag": "https://flagsapi.com/IN/flat/64.png",
-        "username": "competitive_guru",
-        "points": 800
-    },
-    {
-        "rank": 38,
-        "flag": "https://flagsapi.com/RU/flat/64.png",
-        "username": "solution_builder",
-        "points": 750
-    },
-    {
-        "rank": 39,
-        "flag": "https://flagsapi.com/FR/flat/64.png",
-        "username": "code_explorer",
-        "points": 700
-    },
-    {
-        "rank": 40,
-        "flag": "https://flagsapi.com/IT/flat/64.png",
-        "username": "c++_guru",
-        "points": 650
     }
 ]
