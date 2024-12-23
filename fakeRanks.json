@@ -1,0 +1,177 @@
+{
+  "ranking": [
+    {
+      "position": 28,
+      "country": "N/A",
+      "country_flag": "https://flagsapi.com/undefined/flat/64.png",
+      "name": "nikifkon",
+      "score": 118774.731,
+      "time": "01:26"
+    },
+    {
+      "position": 2,
+      "country": "China",
+      "country_flag": "https://flagsapi.com/CN/flat/64.png",
+      "name": "Graygoo_401",
+      "score": 118768.064,
+      "time": "00:35"
+    },
+    {
+      "position": 3,
+      "country": "Vietnam",
+      "country_flag": "https://flagsapi.com/VN/flat/64.png",
+      "name": "darkkcyan",
+      "score": 115657.481,
+      "time": "02:01"
+    },
+    {
+      "position": 4,
+      "country": "N/A",
+      "country_flag": "https://flagsapi.com/undefined/flat/64.png",
+      "name": "Treks",
+      "score": 115266.753,
+      "time": "02:15"
+    },
+    {
+      "position": 5,
+      "country": "China",
+      "country_flag": "https://flagsapi.com/CN/flat/64.png",
+      "name": "NecroSean38",
+      "score": 114623.246,
+      "time": "N/A"
+    },
+    {
+      "position": 6,
+      "country": "N/A",
+      "country_flag": "https://flagsapi.com/undefined/flat/64.png",
+      "name": "include_BM",
+      "score": 114616.851,
+      "time": "01:16"
+    },
+    {
+      "position": 7,
+      "country": "Bangladesh",
+      "country_flag": "https://flagsapi.com/BD/flat/64.png",
+      "name": "nawab_kibria",
+      "score": 114545.561,
+      "time": "02:02"
+    },
+    {
+      "position": 8,
+      "country": "Palestinian Territory",
+      "country_flag": "https://flagsapi.com/PS/flat/64.png",
+      "name": "iordache_",
+      "score": 114442.588,
+      "time": "00:06"
+    },
+    {
+      "position": 8,
+      "country": "Egypt",
+      "country_flag": "https://flagsapi.com/EG/flat/64.png",
+      "name": "_Fady_",
+      "score": 114442.588,
+      "time": "00:14"
+    },
+    {
+      "position": 8,
+      "country": "South Korea",
+      "country_flag": "https://flagsapi.com/KR/flat/64.png",
+      "name": "chromate00",
+      "score": 114442.588,
+      "time": "00:16"
+    },
+    {
+      "position": 8,
+      "country": "China",
+      "country_flag": "https://flagsapi.com/CN/flat/64.png",
+      "name": "Syrus",
+      "score": 114442.588,
+      "time": "00:19"
+    },
+    {
+      "position": 8,
+      "country": "Uzbekistan",
+      "country_flag": "https://flagsapi.com/UZ/flat/64.png",
+      "name": "hackstar",
+      "score": 114442.588,
+      "time": "00:21"
+    },
+    {
+      "position": 8,
+      "country": "Uzbekistan",
+      "country_flag": "https://flagsapi.com/UZ/flat/64.png",
+      "name": "Timosh",
+      "score": 114442.588,
+      "time": "00:24"
+    },
+    {
+      "position": 8,
+      "country": "N/A",
+      "country_flag": "https://flagsapi.com/undefined/flat/64.png",
+      "name": "theoch",
+      "score": 114442.588,
+      "time": "00:24"
+    },
+    {
+      "position": 8,
+      "country": "Kazakhstan",
+      "country_flag": "https://flagsapi.com/KZ/flat/64.png",
+      "name": "Away_in_the_heavens",
+      "score": 114442.588,
+      "time": "00:29"
+    },
+    {
+      "position": 8,
+      "country": "N/A",
+      "country_flag": "https://flagsapi.com/undefined/flat/64.png",
+      "name": "redex",
+      "score": 114442.588,
+      "time": "00:30"
+    },
+    {
+      "position": 8,
+      "country": "Türkiye",
+      "country_flag": "https://flagsapi.com/TR/flat/64.png",
+      "name": "KeremAli",
+      "score": 114442.588,
+      "time": "00:47"
+    },
+    {
+      "position": 8,
+      "country": "Egypt",
+      "country_flag": "https://flagsapi.com/EG/flat/64.png",
+      "name": "YoussefMorad1",
+      "score": 114442.588,
+      "time": "00:58"
+    },
+    {
+      "position": 8,
+      "country": "Palestinian Territory",
+      "country_flag": "https://flagsapi.com/PS/flat/64.png",
+      "name": "KEPuz",
+      "score": 114442.588,
+      "time": "01:00"
+    },
+    {
+      "position": 8,
+      "country": "India",
+      "country_flag": "https://flagsapi.com/IN/flat/64.png",
+      "name": "toshit3q34",
+      "score": 114442.588,
+      "time": "01:00"
+    },
+    {
+      "position": 1,
+      "country": "Bangladesh",
+      "country_flag": "https://flagsapi.com/BD/flat/64.png",
+      "name": "ahnaf_cp",
+      "score": 114436.721,
+      "time": "00:13"
+    }
+  ],
+  "summary": {
+    "status": "Accepted",
+    "attempts": 0,
+    "total_participants": 143
+  }
+}
